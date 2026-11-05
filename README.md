@@ -14,7 +14,7 @@ can't: what a change will break, where a number comes from, and whether a stored
 - Daily health report, 13 connector checks, written governance rules · R, static web app, built with Claude Code
 
 ### [Athlete Data Platform](https://github.com/bradymccor24-arch/athlete-data-platform)
-A PostgreSQL backend for athlete monitoring, built with Claude Code to go deeper on PostgreSQL and modelled on
+A PostgreSQL backend for athlete monitoring, built with Claude Code and modelled on
 the Catapult, ForceDecks and AMS pipelines from my own jobs. Synthetic data throughout.
 - Typed schema with database-enforced rules; Catapult and ForceDecks loaders (R) that validate, reject with reasons
   and reload safely
