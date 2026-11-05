@@ -16,6 +16,7 @@ can't: what a change will break, where a number comes from, and whether a stored
 ### [Job Search Toolkit](https://github.com/bradymccor24-arch/job-search-toolkit)
 A self-hosted job board: an hourly watcher over 36 employer job-board APIs (plain Python, no AI), an AI judgement
 pass that follows written hard rules, and a local board with a Refresh button. Cheap work in code; judgement in AI.
+I designed it and set its rules; the code was written with Claude Code.
 
 ## Portfolio
 
