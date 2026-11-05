@@ -4,6 +4,21 @@ Applied sports scientist moving into product, data, and engineering roles in spo
 MS Biokinesiology (USC) · CSCS · four years inside performance departments at Texas, Maryland, and Fresno State,
 building the data systems coaches and performance staff rely on.
 
+## Work by program
+
+The same job in every program: get vendor data out of its own system and into one place, in one shape,
+so a number can be trusted. My original code from each is in
+[sports-data-pipelines](https://github.com/bradymccor24-arch/sports-data-pipelines).
+
+| Program | Years | What I built |
+|---|---|---|
+| Texas Athletics | 2024-present | [AMS System Map](https://github.com/bradymccor24-arch/ams-system-map): lineage, data quality and monitoring over a Teamworks AMS |
+| University of Maryland | 2023-24 | Nine-source pipeline into Azure and Power BI; [Catapult to PostgreSQL](https://github.com/bradymccor24-arch/sports-data-pipelines/tree/main/maryland-football-2023-24) |
+| Fresno State | 2022-23 | [PCA to choose GPS metrics, snap counts, VBT vs force plate](https://github.com/bradymccor24-arch/sports-data-pipelines/tree/main/fresno-state-2022-23) |
+| LA Giltinis (MLR) | 2021-22 | [Catapult game demands, z-scores, 10 Hz data into PostgreSQL, session RPE](https://github.com/bradymccor24-arch/sports-data-pipelines/tree/main/la-giltinis-2021-22) |
+| USC Athletics | 2021 | [Catapult and PFF into PostgreSQL, ForceDecks z-scores, NordBord, wearables](https://github.com/bradymccor24-arch/sports-data-pipelines/tree/main/usc-athletics-2021) |
+| USC MS Biokinesiology | 2020-22 | [Sensor-derived velocity, first workload model](https://github.com/bradymccor24-arch/sports-data-pipelines/tree/main/usc-graduate-work-2020-22); research at the Clinical Exercise Research Center |
+
 ## Featured work
 
 ### [AMS System Map](https://github.com/bradymccor24-arch/ams-system-map)
